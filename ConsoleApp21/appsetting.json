@@ -1,0 +1,10 @@
+{
+  "database": {
+    "user": "secret-user",
+    "password": "secret-password"
+  }
+  "literals": {
+    "owner": "Developer LTD",
+    "slogan": "We are the best"
+  }
+}
